@@ -18,3 +18,5 @@ To get something like this:
 ![alt text](https://github.com/MiloTodt/CommandlineScheduler/blob/master/usage2.png)
 
 If you perfer a GUI, head to https://sfuscheduler.herokuapp.com/
+
+Source code for the backend at https://github.com/MiloTodt/sfuscheduler
