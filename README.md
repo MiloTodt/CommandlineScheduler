@@ -7,6 +7,6 @@ ruby sfu.rb "macm 201" "cmpt 125" "ensc 150"
 
 Only valid inputs are processed!
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/MiloTodt/CommandlineScheduler/blob/master/usage1.png)
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/MiloTodt/CommandlineScheduler/blob/master/usage2.png)
