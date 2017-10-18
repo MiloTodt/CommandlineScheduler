@@ -1,6 +1,8 @@
 # Requirments
 Working Ruby install, working Lynx install. Lynx is installed by default on OSx and Linux
 
+If multiple sections of the same class are available, will display all possible schedules. 
+
 
 # Usage
 ruby sfu.rb "macm 201" "cmpt 125" "ensc 150"
